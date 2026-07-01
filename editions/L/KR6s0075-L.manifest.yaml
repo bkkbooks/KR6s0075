@@ -1,0 +1,164 @@
+canonical_identifier: bkk:krp/KR6s0075/L/v1
+canonical_location: https://kanripo.org/bkk/KR6s0075/L/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 莊子內篇註
+  identifiers:
+    krp: KR6s0075
+    cbeta: L153n1636
+    cbeta_old_id: L153n1636
+    authorityid: CA0008243
+    json_key: L1636
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/L/L153/L153n1636.xml
+    old_id: L153n1636
+  edition:
+    short: L
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0075_000-L.yaml, hash: 'sha256:9d310cb49c49e30297fa99543ea5510fb5a17f89e95a145d7f22b212c3c0c60c'}
+  - {seq: 1, filename: KR6s0075_001-L.yaml, hash: 'sha256:23e520ea169fbc57648dba818974dc8ab8d33dfc7d337d2d5489382a9d1ba5a4'}
+  - {seq: 2, filename: KR6s0075_002-L.yaml, hash: 'sha256:b92502f4a6166febd7d963f0474ffcef7902f6c53a054aaad2bfca8cb3c7ca51'}
+  - {seq: 3, filename: KR6s0075_003-L.yaml, hash: 'sha256:3260d5fee6ee194ffdc4b1d930e66d9610b7a5b3852d75342b5ea9286ffb8521'}
+  - {seq: 4, filename: KR6s0075_004-L.yaml, hash: 'sha256:39c8520c04f86be77a9e20e79735db25b10f3998c52e5959abe55177d670dfc4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0075_000-L.markers.yaml, hash: 'sha256:3aa45857ef9e104b0c7fec1d78b10ea9b237d137be701961d19a0b96ecfd46cb'}
+  - {seq: 1, role: markers, filename: assets/KR6s0075_001-L.markers.yaml, hash: 'sha256:e44bb836c80139b70e0468ba72ad6ed5a05c6e91e27445aa0e8617f7b573e410'}
+  - {seq: 2, role: markers, filename: assets/KR6s0075_002-L.markers.yaml, hash: 'sha256:d3a01ccaec7126dfc5625404d658fc2e0b113244b81c4528d9016e89ebd2d827'}
+  - {seq: 3, role: markers, filename: assets/KR6s0075_003-L.markers.yaml, hash: 'sha256:027f9ea8faaa04016ac32e1bfeb0a7fa03640a4c2dfb33996f7ffc2bc7cb9607'}
+  - {seq: 4, role: markers, filename: assets/KR6s0075_004-L.markers.yaml, hash: 'sha256:74458b5ba5d5a067b4306b9b32fdfd6aaf37abe4d2950e6b990da44425f20305'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6s0075_L_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0075_L_001-juan-start
+    span:
+    - body
+    - 0
+    - 6390
+  label: 莊子內篇註卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0075_L_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0075_L_001-mulu-2
+    span:
+    - body
+    - 150
+    - 150
+  label: 逍遙遊
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0075_L_002-juan-start
+    span:
+    - body
+    - 0
+    - 18095
+  label: 莊子內篇註卷之二　　　　　　素八
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0075_L_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 齊物論
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0075_L_003-juan-start
+    span:
+    - body
+    - 0
+    - 18518
+  label: 莊子內篇註卷之三　　　　　　素九
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0075_L_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 養生主
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0075_L_003-mulu-2
+    span:
+    - body
+    - 2777
+    - 2777
+  label: 人間世
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0075_L_003-mulu-3
+    span:
+    - body
+    - 12440
+    - 12440
+  label: 德克符
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0075_L_004-juan-start
+    span:
+    - body
+    - 0
+    - 17143
+  label: 莊子內篇註卷之四　　　　　　素十
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0075_L_004-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 大宗師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0075_L_004-mulu-2
+    span:
+    - body
+    - 12671
+    - 12671
+  label: 應帝王
+  type: mulu
+  level: 1
+hash: sha256:c930b72b8e02f65a75644400a9f8ab6c36a0f14fa527af50113eefaa029b9abe
