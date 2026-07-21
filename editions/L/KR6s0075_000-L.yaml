@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6s0075/l/v1/juan/0
 seq: 0
-front:
+body:
   text: 莊子內篇註目錄素七卷一逍遙遊卷二齊物論卷三養生主人間世德𠑽符卷四大宗師應帝王
   hash: sha256:30174b1eb3e35c04be3c8f126759abe10bdf02a2a522be78d09f59ae787fba58
   markers:
   - {type: 其他, offset: 0, content: 目錄, id: KR6s0075_L_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 莊子內篇註
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/L/L153/L153n1636.xml
     old_id: L153n1636
-hash: sha256:9d310cb49c49e30297fa99543ea5510fb5a17f89e95a145d7f22b212c3c0c60c
+hash: sha256:2793dbd991bd55ec3dba6882cddcda6d7378c5e559af99df8d2fa9e1bd67b0dc
